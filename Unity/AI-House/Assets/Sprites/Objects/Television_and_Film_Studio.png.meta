@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 2634d8d85146341ac9e5c0cad47d02b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -600047144586287480
+    second: Television_and_Film_Studio_0
+  - first:
+      213: 5822751056886826171
+    second: Television_and_Film_Studio_1
+  - first:
+      213: 2287177191705593594
+    second: Television_and_Film_Studio_2
+  - first:
+      213: -7218296050154848197
+    second: Television_and_Film_Studio_3
+  - first:
+      213: 4093960998529144647
+    second: Television_and_Film_Studio_4
+  - first:
+      213: 2619973048911189788
+    second: Television_and_Film_Studio_5
+  - first:
+      213: 1362273404070099932
+    second: Television_and_Film_Studio_6
+  - first:
+      213: -2088428112927398792
+    second: Television_and_Film_Studio_7
+  - first:
+      213: 4366766868464988090
+    second: Television_and_Film_Studio_8
+  - first:
+      213: 3165500081324211116
+    second: Television_and_Film_Studio_9
+  - first:
+      213: -3889538163827864657
+    second: Television_and_Film_Studio_10
+  - first:
+      213: -940542475219633725
+    second: Television_and_Film_Studio_11
+  - first:
+      213: -6970293592409742907
+    second: Television_and_Film_Studio_12
+  - first:
+      213: 565609178812165288
+    second: Television_and_Film_Studio_13
+  - first:
+      213: -3287471270409060420
+    second: Television_and_Film_Studio_14
+  - first:
+      213: 5828706136221346433
+    second: Television_and_Film_Studio_15
+  - first:
+      213: 639218405928356655
+    second: Television_and_Film_Studio_16
+  - first:
+      213: -325391765956225905
+    second: Television_and_Film_Studio_17
+  - first:
+      213: 8923183274673912843
+    second: Television_and_Film_Studio_18
+  - first:
+      213: 7293250642303252283
+    second: Television_and_Film_Studio_19
+  - first:
+      213: -8121759654524354339
+    second: Television_and_Film_Studio_20
+  - first:
+      213: -366581720854181164
+    second: Television_and_Film_Studio_21
+  - first:
+      213: -7957958118978313008
+    second: Television_and_Film_Studio_22
+  - first:
+      213: -2204405053598936071
+    second: Television_and_Film_Studio_23
+  - first:
+      213: 1168578745159190813
+    second: Television_and_Film_Studio_24
+  - first:
+      213: 4296457432415875109
+    second: Television_and_Film_Studio_25
+  - first:
+      213: 722516882356456610
+    second: Television_and_Film_Studio_26
+  - first:
+      213: -2182290761643001633
+    second: Television_and_Film_Studio_27
+  - first:
+      213: -2147112748355575133
+    second: Television_and_Film_Studio_28
+  - first:
+      213: 4301611271706258740
+    second: Television_and_Film_Studio_29
+  - first:
+      213: 3685181083964135595
+    second: Television_and_Film_Studio_30
+  - first:
+      213: -3493072206775534206
+    second: Television_and_Film_Studio_31
+  - first:
+      213: -4655013295872479621
+    second: Television_and_Film_Studio_32
+  - first:
+      213: -1952232854372426673
+    second: Television_and_Film_Studio_33
+  - first:
+      213: -985423413166541572
+    second: Television_and_Film_Studio_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 386
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886627a1d443ca7f0800000000000000
+      internalID: -600047144586287480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 386
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb405496c319ec050800000000000000
+      internalID: 5822751056886826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 392
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ccf1b98fadbf10800000000000000
+      internalID: 2287177191705593594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 368
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304aee8cf573db90800000000000000
+      internalID: -7218296050154848197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74712a166dba0d830800000000000000
+      internalID: 4093960998529144647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 416
+        width: 164
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d2755b930c5420800000000000000
+      internalID: 2619973048911189788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 372
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7f808174c7e210800000000000000
+      internalID: 1362273404070099932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 372
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e50e32b96403e0800000000000000
+      internalID: -2088428112927398792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 368
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfeccba45fd99c30800000000000000
+      internalID: 4366766868464988090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 384
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbccb6d8d1eeb20800000000000000
+      internalID: 3165500081324211116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 322
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab07bcc5a5950ac0800000000000000
+      internalID: -3889538163827864657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9fd5c1a9582f2f0800000000000000
+      internalID: -940542475219633725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16c3c68ea844f90800000000000000
+      internalID: -6970293592409742907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acacc82d8279d700800000000000000
+      internalID: 565609178812165288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 352
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf37fd1c4e8062d0800000000000000
+      internalID: -3287471270409060420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 60
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aec9d5959b3e050800000000000000
+      internalID: 5828706136221346433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 292
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4043e0c5fed800800000000000000
+      internalID: 639218405928356655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 292
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f849751b9e9fb7bf0800000000000000
+      internalID: -325391765956225905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 308
+        width: 156
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c35a849e385db70800000000000000
+      internalID: 8923183274673912843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ff5061d4d63560800000000000000
+      internalID: 7293250642303252283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 228
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00af800a6b94f80800000000000000
+      internalID: -8121759654524354339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac55bfdd3a9eaf0800000000000000
+      internalID: -366581720854181164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 244
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4acdcf047af8190800000000000000
+      internalID: -7957958118978313008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 244
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d82f78416861e0800000000000000
+      internalID: -2204405053598936071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1909456d20a73010800000000000000
+      internalID: 1168578745159190813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5203cbb654510ab30800000000000000
+      internalID: 4296457432415875109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4415c645e60a00800000000000000
+      internalID: 722516882356456610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f6a35d12f6b1e0800000000000000
+      internalID: -2182290761643001633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 154
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ad8dc45ce332e0800000000000000
+      internalID: -2147112748355575133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2ed329a462bb30800000000000000
+      internalID: 4301611271706258740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8dba2cba4642330800000000000000
+      internalID: 3685181083964135595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 90
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dba54c55d168fc0800000000000000
+      internalID: -3493072206775534206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eecca1212166fb0800000000000000
+      internalID: -4655013295872479621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd844ff8648e4e0800000000000000
+      internalID: -1952232854372426673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Television_and_Film_Studio_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 26
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fad070a21352f0800000000000000
+      internalID: -985423413166541572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6399 @@
+fileFormatVersion: 2
+guid: 9e537b98d598c07cd9f70923372474de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5043528495432702037
+    second: Bedroom_0
+  - first:
+      213: 6875817921905635332
+    second: Bedroom_1
+  - first:
+      213: 896020294979112544
+    second: Bedroom_2
+  - first:
+      213: 5986751052075152423
+    second: Bedroom_3
+  - first:
+      213: -8384629440743215535
+    second: Bedroom_4
+  - first:
+      213: 907201019524600130
+    second: Bedroom_5
+  - first:
+      213: -1066595238069021868
+    second: Bedroom_6
+  - first:
+      213: -1530083178220998042
+    second: Bedroom_7
+  - first:
+      213: 5794743231254981658
+    second: Bedroom_8
+  - first:
+      213: 5804876885947214661
+    second: Bedroom_9
+  - first:
+      213: -6788597353590329950
+    second: Bedroom_10
+  - first:
+      213: 1766269358556616263
+    second: Bedroom_11
+  - first:
+      213: -9136374836629622707
+    second: Bedroom_12
+  - first:
+      213: 7278483410783017288
+    second: Bedroom_13
+  - first:
+      213: -8649816602372595881
+    second: Bedroom_14
+  - first:
+      213: -8837875168351644030
+    second: Bedroom_15
+  - first:
+      213: -3055391293771054996
+    second: Bedroom_16
+  - first:
+      213: 2489284093136783479
+    second: Bedroom_17
+  - first:
+      213: -5505082691790963480
+    second: Bedroom_18
+  - first:
+      213: 3964772569601008762
+    second: Bedroom_19
+  - first:
+      213: -4386317522039879461
+    second: Bedroom_20
+  - first:
+      213: -6546462093471225953
+    second: Bedroom_21
+  - first:
+      213: -6281158603140254830
+    second: Bedroom_22
+  - first:
+      213: -4646538417699375196
+    second: Bedroom_23
+  - first:
+      213: -536379240572006835
+    second: Bedroom_24
+  - first:
+      213: 4284490706326846270
+    second: Bedroom_25
+  - first:
+      213: 720651344497066342
+    second: Bedroom_26
+  - first:
+      213: -3272520218430164050
+    second: Bedroom_27
+  - first:
+      213: 2202471445900904503
+    second: Bedroom_28
+  - first:
+      213: 1798233465855135529
+    second: Bedroom_29
+  - first:
+      213: -7752073962080770445
+    second: Bedroom_30
+  - first:
+      213: 4965351596282623258
+    second: Bedroom_31
+  - first:
+      213: -5528615588833524546
+    second: Bedroom_32
+  - first:
+      213: 3662613417572279145
+    second: Bedroom_33
+  - first:
+      213: 3030039579375647572
+    second: Bedroom_34
+  - first:
+      213: 5443377365619741529
+    second: Bedroom_35
+  - first:
+      213: -6975564114576190449
+    second: Bedroom_36
+  - first:
+      213: -3744853559931642583
+    second: Bedroom_37
+  - first:
+      213: -1380550493985325565
+    second: Bedroom_38
+  - first:
+      213: 8509927936483419012
+    second: Bedroom_39
+  - first:
+      213: -3984780880999206889
+    second: Bedroom_40
+  - first:
+      213: 6183905245982220186
+    second: Bedroom_41
+  - first:
+      213: -661910217625691034
+    second: Bedroom_42
+  - first:
+      213: -6927508794685141281
+    second: Bedroom_43
+  - first:
+      213: -7081064023931385025
+    second: Bedroom_44
+  - first:
+      213: -4743500593482861706
+    second: Bedroom_45
+  - first:
+      213: 3551505338087649667
+    second: Bedroom_46
+  - first:
+      213: 3206318054229956928
+    second: Bedroom_47
+  - first:
+      213: -8678916931210395941
+    second: Bedroom_48
+  - first:
+      213: 4149270237001209154
+    second: Bedroom_49
+  - first:
+      213: 3108882098881462441
+    second: Bedroom_50
+  - first:
+      213: 8190085297861241528
+    second: Bedroom_51
+  - first:
+      213: -6520635116184885394
+    second: Bedroom_52
+  - first:
+      213: 6912625600242619263
+    second: Bedroom_53
+  - first:
+      213: 6761266750395323605
+    second: Bedroom_54
+  - first:
+      213: 710482633410455606
+    second: Bedroom_55
+  - first:
+      213: 9053048750722314019
+    second: Bedroom_56
+  - first:
+      213: 9176629787411380698
+    second: Bedroom_57
+  - first:
+      213: -5086161867834932044
+    second: Bedroom_58
+  - first:
+      213: -2309463544375164556
+    second: Bedroom_59
+  - first:
+      213: 9059105695777059394
+    second: Bedroom_60
+  - first:
+      213: 8004816436006667437
+    second: Bedroom_61
+  - first:
+      213: -7898986965876017244
+    second: Bedroom_62
+  - first:
+      213: 334028300021032526
+    second: Bedroom_63
+  - first:
+      213: 8003634533797074301
+    second: Bedroom_64
+  - first:
+      213: 7011033850854370202
+    second: Bedroom_65
+  - first:
+      213: 4092143333810212288
+    second: Bedroom_66
+  - first:
+      213: -7651251856918832710
+    second: Bedroom_67
+  - first:
+      213: -1771839850255104729
+    second: Bedroom_68
+  - first:
+      213: 2494288845205847949
+    second: Bedroom_69
+  - first:
+      213: -1050683137121410605
+    second: Bedroom_70
+  - first:
+      213: 5196228641444410764
+    second: Bedroom_71
+  - first:
+      213: 5763958775255050369
+    second: Bedroom_72
+  - first:
+      213: -8353715341825334624
+    second: Bedroom_73
+  - first:
+      213: -6591846146880687302
+    second: Bedroom_74
+  - first:
+      213: 2299387917133745649
+    second: Bedroom_75
+  - first:
+      213: 9111066915042212675
+    second: Bedroom_76
+  - first:
+      213: 5448382197166611896
+    second: Bedroom_77
+  - first:
+      213: 3157870404943954744
+    second: Bedroom_78
+  - first:
+      213: -9142172633273259091
+    second: Bedroom_79
+  - first:
+      213: 855121007350999988
+    second: Bedroom_80
+  - first:
+      213: 58353135742843615
+    second: Bedroom_81
+  - first:
+      213: 6570821709608391072
+    second: Bedroom_82
+  - first:
+      213: 3139363362546627684
+    second: Bedroom_83
+  - first:
+      213: 1422050845686426246
+    second: Bedroom_84
+  - first:
+      213: 8553204468218532516
+    second: Bedroom_85
+  - first:
+      213: 4203728045652684133
+    second: Bedroom_86
+  - first:
+      213: -6668390200787189284
+    second: Bedroom_87
+  - first:
+      213: 8985614094962263223
+    second: Bedroom_88
+  - first:
+      213: -7175441502585960671
+    second: Bedroom_89
+  - first:
+      213: -6656788752917616504
+    second: Bedroom_90
+  - first:
+      213: 1063736893415267673
+    second: Bedroom_91
+  - first:
+      213: -2268354353571604035
+    second: Bedroom_92
+  - first:
+      213: 683317777170284116
+    second: Bedroom_93
+  - first:
+      213: -802848087996708193
+    second: Bedroom_94
+  - first:
+      213: -7028237744136289510
+    second: Bedroom_95
+  - first:
+      213: -6015822622961572140
+    second: Bedroom_96
+  - first:
+      213: -8951024732291224601
+    second: Bedroom_97
+  - first:
+      213: -8038021542396242584
+    second: Bedroom_98
+  - first:
+      213: -4474526552923163856
+    second: Bedroom_99
+  - first:
+      213: -1770222100497563290
+    second: Bedroom_100
+  - first:
+      213: 6109755599977139547
+    second: Bedroom_101
+  - first:
+      213: -7954196606882694779
+    second: Bedroom_102
+  - first:
+      213: -7525358419203868492
+    second: Bedroom_103
+  - first:
+      213: 8845580284405838600
+    second: Bedroom_104
+  - first:
+      213: -1278649681259462195
+    second: Bedroom_105
+  - first:
+      213: 5985669142786034341
+    second: Bedroom_106
+  - first:
+      213: 7514835651762356774
+    second: Bedroom_107
+  - first:
+      213: 3878961089360509070
+    second: Bedroom_108
+  - first:
+      213: -7281659517010528084
+    second: Bedroom_109
+  - first:
+      213: -5229922307755426962
+    second: Bedroom_110
+  - first:
+      213: 5880073411031242726
+    second: Bedroom_111
+  - first:
+      213: 7962831030412435644
+    second: Bedroom_112
+  - first:
+      213: 8809167866465910097
+    second: Bedroom_113
+  - first:
+      213: 7558143425051405456
+    second: Bedroom_114
+  - first:
+      213: 3376105769055121548
+    second: Bedroom_115
+  - first:
+      213: 987469907747705255
+    second: Bedroom_116
+  - first:
+      213: -3763997151235024994
+    second: Bedroom_117
+  - first:
+      213: 5023764819556021423
+    second: Bedroom_118
+  - first:
+      213: -4134210396856971717
+    second: Bedroom_119
+  - first:
+      213: -6516108829130768
+    second: Bedroom_120
+  - first:
+      213: 6223783315643150421
+    second: Bedroom_121
+  - first:
+      213: 3466616855925383021
+    second: Bedroom_122
+  - first:
+      213: 8428418581665402336
+    second: Bedroom_123
+  - first:
+      213: 5805251890828498765
+    second: Bedroom_124
+  - first:
+      213: -5158842495450937387
+    second: Bedroom_125
+  - first:
+      213: 706989285678254785
+    second: Bedroom_126
+  - first:
+      213: -9210089986494586688
+    second: Bedroom_127
+  - first:
+      213: 4410210773994123441
+    second: Bedroom_128
+  - first:
+      213: 4956343361192696051
+    second: Bedroom_129
+  - first:
+      213: 3665987879735077891
+    second: Bedroom_130
+  - first:
+      213: 3560414087795912236
+    second: Bedroom_131
+  - first:
+      213: 1595986483747745115
+    second: Bedroom_132
+  - first:
+      213: -7930821950756221189
+    second: Bedroom_133
+  - first:
+      213: -2210655968728034608
+    second: Bedroom_134
+  - first:
+      213: -4605593034950361195
+    second: Bedroom_135
+  - first:
+      213: -6103670749587438383
+    second: Bedroom_136
+  - first:
+      213: 2743828859876952975
+    second: Bedroom_137
+  - first:
+      213: -3736301533379356573
+    second: Bedroom_138
+  - first:
+      213: -5845787225409533247
+    second: Bedroom_139
+  - first:
+      213: 4771077390535749177
+    second: Bedroom_140
+  - first:
+      213: 6159093739987323256
+    second: Bedroom_141
+  - first:
+      213: -7604646930192930214
+    second: Bedroom_142
+  - first:
+      213: 7457991881742433232
+    second: Bedroom_143
+  - first:
+      213: -368904465498746943
+    second: Bedroom_144
+  - first:
+      213: -2431815346203478904
+    second: Bedroom_145
+  - first:
+      213: 1111811659587468113
+    second: Bedroom_146
+  - first:
+      213: -6358649070850402544
+    second: Bedroom_147
+  - first:
+      213: 6770198760747325252
+    second: Bedroom_148
+  - first:
+      213: 2107203005391258386
+    second: Bedroom_149
+  - first:
+      213: -1245228182571885662
+    second: Bedroom_150
+  - first:
+      213: 5242563212022071361
+    second: Bedroom_151
+  - first:
+      213: 7902342631780048004
+    second: Bedroom_152
+  - first:
+      213: 1094921831844438243
+    second: Bedroom_153
+  - first:
+      213: 1385537036695813792
+    second: Bedroom_154
+  - first:
+      213: -1620150843102385176
+    second: Bedroom_155
+  - first:
+      213: -716321557100741232
+    second: Bedroom_156
+  - first:
+      213: 1566669512216610529
+    second: Bedroom_157
+  - first:
+      213: 3540518015792313591
+    second: Bedroom_158
+  - first:
+      213: 5353349222341132023
+    second: Bedroom_159
+  - first:
+      213: 5482477085138328635
+    second: Bedroom_160
+  - first:
+      213: -6838737245392329999
+    second: Bedroom_161
+  - first:
+      213: 4374570994968477308
+    second: Bedroom_162
+  - first:
+      213: -8267794205601981649
+    second: Bedroom_163
+  - first:
+      213: 3383036981252275979
+    second: Bedroom_164
+  - first:
+      213: 9001479582482688355
+    second: Bedroom_165
+  - first:
+      213: 3952808337127497380
+    second: Bedroom_166
+  - first:
+      213: 7750640390670256832
+    second: Bedroom_167
+  - first:
+      213: 8563381887163943484
+    second: Bedroom_168
+  - first:
+      213: -368683320139787030
+    second: Bedroom_169
+  - first:
+      213: -5156255992074391934
+    second: Bedroom_170
+  - first:
+      213: -3762966778724748332
+    second: Bedroom_171
+  - first:
+      213: 2582170331188462053
+    second: Bedroom_172
+  - first:
+      213: 5383995755496206241
+    second: Bedroom_173
+  - first:
+      213: -3370414193877635493
+    second: Bedroom_174
+  - first:
+      213: 505474209926792427
+    second: Bedroom_175
+  - first:
+      213: 8236859120764712025
+    second: Bedroom_176
+  - first:
+      213: 9024787059286078486
+    second: Bedroom_177
+  - first:
+      213: -7501764231336760326
+    second: Bedroom_178
+  - first:
+      213: -4572978978535937388
+    second: Bedroom_179
+  - first:
+      213: 3922874164183278256
+    second: Bedroom_180
+  - first:
+      213: -9184187727925049845
+    second: Bedroom_181
+  - first:
+      213: 2124565895524779793
+    second: Bedroom_182
+  - first:
+      213: -7693253309303879027
+    second: Bedroom_183
+  - first:
+      213: -8721701846812324319
+    second: Bedroom_184
+  - first:
+      213: 1295331030832894071
+    second: Bedroom_185
+  - first:
+      213: 2133086633830268376
+    second: Bedroom_186
+  - first:
+      213: -8207104299804213473
+    second: Bedroom_187
+  - first:
+      213: 4027143238994736458
+    second: Bedroom_188
+  - first:
+      213: 1189007057518314438
+    second: Bedroom_189
+  - first:
+      213: -6502486447384864180
+    second: Bedroom_190
+  - first:
+      213: 201052569307688019
+    second: Bedroom_191
+  - first:
+      213: 6938412856621588942
+    second: Bedroom_192
+  - first:
+      213: 8963563298408840239
+    second: Bedroom_193
+  - first:
+      213: -4431554967133568748
+    second: Bedroom_194
+  - first:
+      213: 6815373697712354508
+    second: Bedroom_195
+  - first:
+      213: -8270182327746118239
+    second: Bedroom_196
+  - first:
+      213: 8830918180259991799
+    second: Bedroom_197
+  - first:
+      213: 4555963471379067243
+    second: Bedroom_198
+  - first:
+      213: 9081745897298257674
+    second: Bedroom_199
+  - first:
+      213: 4780385995309179736
+    second: Bedroom_200
+  - first:
+      213: 5129078236235408934
+    second: Bedroom_201
+  - first:
+      213: -2363664062529776830
+    second: Bedroom_202
+  - first:
+      213: 3767464780805019340
+    second: Bedroom_203
+  - first:
+      213: 7532112735185976642
+    second: Bedroom_204
+  - first:
+      213: -6000017030738342236
+    second: Bedroom_205
+  - first:
+      213: -2893185879198362174
+    second: Bedroom_206
+  - first:
+      213: 6723909007624588887
+    second: Bedroom_207
+  - first:
+      213: 9178850099996334272
+    second: Bedroom_208
+  - first:
+      213: 6056464426451647162
+    second: Bedroom_209
+  - first:
+      213: -4353566199292836511
+    second: Bedroom_210
+  - first:
+      213: -2880489960296409552
+    second: Bedroom_211
+  - first:
+      213: 7970280517878483937
+    second: Bedroom_212
+  - first:
+      213: 7762048351951203694
+    second: Bedroom_213
+  - first:
+      213: 7632557544757257381
+    second: Bedroom_214
+  - first:
+      213: 2650256008449267437
+    second: Bedroom_215
+  - first:
+      213: -7480601573295777174
+    second: Bedroom_216
+  - first:
+      213: 5042363953200536314
+    second: Bedroom_217
+  - first:
+      213: 1769761456898038414
+    second: Bedroom_218
+  - first:
+      213: 7691006515762603757
+    second: Bedroom_219
+  - first:
+      213: 5536906055393528512
+    second: Bedroom_220
+  - first:
+      213: -1839558597647161713
+    second: Bedroom_221
+  - first:
+      213: 9056391713184365389
+    second: Bedroom_222
+  - first:
+      213: 3773088155154187349
+    second: Bedroom_223
+  - first:
+      213: -2888269842815134245
+    second: Bedroom_224
+  - first:
+      213: 3527165593164532338
+    second: Bedroom_225
+  - first:
+      213: -4364526508327975375
+    second: Bedroom_226
+  - first:
+      213: 6386553961591519556
+    second: Bedroom_227
+  - first:
+      213: 8428466167451161835
+    second: Bedroom_228
+  - first:
+      213: 8693947717522126834
+    second: Bedroom_229
+  - first:
+      213: 3044979282510419452
+    second: Bedroom_230
+  - first:
+      213: 4377068789792308995
+    second: Bedroom_231
+  - first:
+      213: 6731601376664613772
+    second: Bedroom_232
+  - first:
+      213: -369384930224517990
+    second: Bedroom_233
+  - first:
+      213: -2695133726204564397
+    second: Bedroom_234
+  - first:
+      213: 4242805543659202334
+    second: Bedroom_235
+  - first:
+      213: 1931903187480855182
+    second: Bedroom_236
+  - first:
+      213: 8896917714122023812
+    second: Bedroom_238
+  - first:
+      213: -4043451883247898580
+    second: Bedroom_249
+  - first:
+      213: -6089666565726649231
+    second: Bedroom_262
+  - first:
+      213: 7970978945609866742
+    second: Bedroom_263
+  - first:
+      213: -6216871213919919052
+    second: Bedroom_264
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bedroom_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3315
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76c2f1e89c10ab0800000000000000
+      internalID: -5043528495432702037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3315
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400337768ffcb6f50800000000000000
+      internalID: 6875817921905635332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3315
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e45c106bd4f6c00800000000000000
+      internalID: 896020294979112544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3279
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b2a9dc56351350800000000000000
+      internalID: 5986751052075152423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3302
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee73382ffc3ab80800000000000000
+      internalID: -8384629440743215535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3339
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d2ac4586079c00800000000000000
+      internalID: 907201019524600130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3257
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d5c33841b231f0800000000000000
+      internalID: -1066595238069021868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3257
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623655c47d04cae0800000000000000
+      internalID: -1530083178220998042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3257
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6d8754401b6050800000000000000
+      internalID: 5794743231254981658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3257
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b62cfa5c01f8050800000000000000
+      internalID: 5804876885947214661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3250
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad6718acae0ac1a0800000000000000
+      internalID: -6788597353590329950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3183
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469c6e9f9c038810800000000000000
+      internalID: 1766269358556616263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3177
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40bfdf1e73153180800000000000000
+      internalID: -9136374836629622707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3243
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8499b4b591e520560800000000000000
+      internalID: 7278483410783017288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3167
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1e4bf0ada5f780800000000000000
+      internalID: -8649816602372595881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3118
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28697250c5f895580800000000000000
+      internalID: -8837875168351644030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3146
+        width: 129
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6084f47ec11995d0800000000000000
+      internalID: -3055391293771054996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3113
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c274a1b6bb8220800000000000000
+      internalID: 2489284093136783479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf5a085740a93b0800000000000000
+      internalID: -5505082691790963480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3039
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e74255a3b50730800000000000000
+      internalID: 3964772569601008762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3046
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8cdb2147ba023c0800000000000000
+      internalID: -4386317522039879461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3044
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97661f196b4625a0800000000000000
+      internalID: -6546462093471225953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2974
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293bfe98787d4d8a0800000000000000
+      internalID: -6281158603140254830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2931
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b2d17ded248fb0800000000000000
+      internalID: -4646538417699375196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2974
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ecfcc2ce56e88f0800000000000000
+      internalID: -536379240572006835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2979
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf212e891957b30800000000000000
+      internalID: 4284490706326846270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2984
+        width: 103
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c7a36494400a00800000000000000
+      internalID: 720651344497066342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2911
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bf2c233ca592d0800000000000000
+      internalID: -3272520218430164050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2911
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7384dd06c10c09e10800000000000000
+      internalID: 2202471445900904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2785
+        width: 68
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc38b4fcb94f810800000000000000
+      internalID: 1798233465855135529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2921
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ee91cdc91b6490800000000000000
+      internalID: -7752073962080770445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2847
+        width: 206
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15385128f878e440800000000000000
+      internalID: 4965351596282623258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_32
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2857
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb404efe9696643b0800000000000000
+      internalID: -5528615588833524546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2800
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a9f77f7734d230800000000000000
+      internalID: 3662613417572279145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2800
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3f0091fcdc0a20800000000000000
+      internalID: 3030039579375647572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2799
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539a20bfd2ca8b40800000000000000
+      internalID: 5443377365619741529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2827
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0459ba5561d13f90800000000000000
+      internalID: -6975564114576190449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2827
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dda60478b970cc0800000000000000
+      internalID: -3744853559931642583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2825
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb383e3ac47dce0800000000000000
+      internalID: -1380550493985325565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2829
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4836446ee56591670800000000000000
+      internalID: 8509927936483419012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2822
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103648a6e633b8c0800000000000000
+      internalID: -3984780880999206889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2792
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd177be05a1d550800000000000000
+      internalID: 6183905245982220186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2809
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c183df92c60d6f0800000000000000
+      internalID: -661910217625691034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2819
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec56a647b8cdf90800000000000000
+      internalID: -6927508794685141281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2817
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b85cd89c10bbd90800000000000000
+      internalID: -7081064023931385025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2807
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737995a753bb2eb0800000000000000
+      internalID: -4743500593482861706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2807
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3813e9ec94b794130800000000000000
+      internalID: 3551505338087649667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2809
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495c4358412f7c20800000000000000
+      internalID: 3206318054229956928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2802
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb410b80b4e8780800000000000000
+      internalID: -8678916931210395941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2800
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245de89fb4b259930800000000000000
+      internalID: 4149270237001209154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2737
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a086602cc7f42b20800000000000000
+      internalID: 3108882098881462441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2747
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2b2b7f2709a170800000000000000
+      internalID: 8190085297861241528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2734
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67acddd8ec0285a0800000000000000
+      internalID: -6520635116184885394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2740
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739bb7db549eef50800000000000000
+      internalID: 6912625600242619263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2678
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d419f86948d4dd50800000000000000
+      internalID: 6761266750395323605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2678
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638a387d0342cd900800000000000000
+      internalID: 710482633410455606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2678
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe819afd3e2ad70800000000000000
+      internalID: 9053048750722314019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_57
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2678
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97ce9fb20f95f70800000000000000
+      internalID: 9176629787411380698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2657
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cf859ab25a69b0800000000000000
+      internalID: -5086161867834932044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2657
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471cdc7742323ffd0800000000000000
+      internalID: -2309463544375164556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2675
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242728312a868bd70800000000000000
+      internalID: 9059105695777059394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2561
+        width: 194
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c2602322d61f60800000000000000
+      internalID: 8004816436006667437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2596
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f4858439216290800000000000000
+      internalID: -7898986965876017244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2575
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466ea718f4b2a400800000000000000
+      internalID: 334028300021032526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2575
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751603143f921f60800000000000000
+      internalID: 8003634533797074301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_65
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2575
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be96c24223c4160800000000000000
+      internalID: 7011033850854370202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2573
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8db55ea63ac830800000000000000
+      internalID: 4092143333810212288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2506
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab91e4569fa41d590800000000000000
+      internalID: -7651251856918832710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2506
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725c9a63b092967e0800000000000000
+      internalID: -1771839850255104729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2506
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb6b94d7e7d9220800000000000000
+      internalID: 2494288845205847949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2506
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1a268e0493b61f0800000000000000
+      internalID: -1050683137121410605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2454
+        width: 194
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8531092b66bc1840800000000000000
+      internalID: 5196228641444410764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2436
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a213a7f1bdff40800000000000000
+      internalID: 5763958775255050369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2436
+        width: 114
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a225cf0824a11c80800000000000000
+      internalID: -8353715341825334624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2431
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333621cade0584a0800000000000000
+      internalID: -6591846146880687302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2284
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0591c02119ef10800000000000000
+      internalID: 2299387917133745649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2367
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bb7e33613017e70800000000000000
+      internalID: 9111066915042212675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2302
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd9da6ddba8c9b40800000000000000
+      internalID: 5448382197166611896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2217
+        width: 105
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334765f66203db20800000000000000
+      internalID: 3157870404943954744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2217
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab23766d6a702180800000000000000
+      internalID: -9142172633273259091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2217
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb612b86000edb00800000000000000
+      internalID: 855121007350999988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_81
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2207
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7b772edf4fc000800000000000000
+      internalID: 58353135742843615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1878
+        width: 67
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a112abf78f303b50800000000000000
+      internalID: 6570821709608391072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2130
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b77d5852419b20800000000000000
+      internalID: 3139363362546627684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2130
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aeea5b5b32cb310800000000000000
+      internalID: 1422050845686426246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1878
+        width: 65
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21373a52613b670800000000000000
+      internalID: 8553204468218532516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_86
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2133
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da97d9264a65a30800000000000000
+      internalID: 4203728045652684133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2035
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1426a617e1573a0800000000000000
+      internalID: -6668390200787189284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2035
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b408fa596053bc70800000000000000
+      internalID: 8985614094962263223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2068
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c4c378f5bb6c90800000000000000
+      internalID: -7175441502585960671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1939
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a78df5e55e93a0800000000000000
+      internalID: -6656788752917616504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1939
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d9e72911723ce00800000000000000
+      internalID: 1063736893415267673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_92
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2005
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db957a2dbbf2580e0800000000000000
+      internalID: -2268354353571604035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_93
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1941
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb1f0e5e1ab7900800000000000000
+      internalID: 683317777170284116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1842
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aca5aeae5bbd4f0800000000000000
+      internalID: -802848087996708193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1888
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1383c7420fa67e90800000000000000
+      internalID: -7028237744136289510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1842
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6ed969231838ca0800000000000000
+      internalID: -6015822622961572140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1888
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebab083e6297c380800000000000000
+      internalID: -8951024732291224601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_98
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1878
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d8849ef5337090800000000000000
+      internalID: -8038021542396242584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 512
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03336f2aec947e1c0800000000000000
+      internalID: -4474526552923163856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_100
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1812
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610c4ee068ee67e0800000000000000
+      internalID: -1770222100497563290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_101
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1812
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d4719e8563ac450800000000000000
+      internalID: 6109755599977139547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_102
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1331
+        width: 196
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b32544540d9190800000000000000
+      internalID: -7954196606882694779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 512
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bbd7836e809790800000000000000
+      internalID: -7525358419203868492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 194
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803753c1760d1ca70800000000000000
+      internalID: 8845580284405838600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1217
+        width: 321
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc10d54b3e2514ee0800000000000000
+      internalID: -1278649681259462195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_106
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1199
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa47c63f5e511350800000000000000
+      internalID: 5985669142786034341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1155
+        width: 479
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228cb0c53f0a4860800000000000000
+      internalID: 7514835651762356774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8835e42f86d4d530800000000000000
+      internalID: 3878961089360509070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1087
+        width: 124
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8be39cf3952fa90800000000000000
+      internalID: -7281659517010528084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1098
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb853de559b67b0800000000000000
+      internalID: -5229922307755426962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_111
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1098
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79cb50d973a9150800000000000000
+      internalID: 5880073411031242726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1124
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e03e12a8a18e60800000000000000
+      internalID: 7962831030412435644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_113
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1124
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7c776083704a70800000000000000
+      internalID: 8809167866465910097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_114
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1124
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca4ab766be3e860800000000000000
+      internalID: 7558143425051405456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_115
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1120
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c807da04f465ade20800000000000000
+      internalID: 3376105769055121548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1107
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a190b536a234bd00800000000000000
+      internalID: 987469907747705255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_117
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1097
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97dd01988893cbc0800000000000000
+      internalID: -3763997151235024994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1058
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4bdb08c7ff7b540800000000000000
+      internalID: 5023764819556021423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1058
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0d9c4c8550a6c0800000000000000
+      internalID: -4134210396856971717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_120
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1058
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffbef22a9d8eff0800000000000000
+      internalID: -6516108829130768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_121
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1057
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b9e753f15f5650800000000000000
+      internalID: 6223783315643150421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1065
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f50ddd9a5eb1030800000000000000
+      internalID: 3466616855925383021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1040
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edc77a5b02c7f470800000000000000
+      internalID: 8428418581665402336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1045
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475f7056d5609050800000000000000
+      internalID: 5805251890828498765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1035
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70576451c1868b0800000000000000
+      internalID: -5158842495450937387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_126
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1035
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0cd0720bbfc900800000000000000
+      internalID: 706989285678254785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1043
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ab9554ff2f2080800000000000000
+      internalID: -9210089986494586688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b035882557343d30800000000000000
+      internalID: 4410210773994123441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1033
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f891c4f60878c440800000000000000
+      internalID: 4956343361192696051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_130
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1027
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2f7aad8430e230800000000000000
+      internalID: 3665987879735077891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_131
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1027
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2f5cbfb1296130800000000000000
+      internalID: 3560414087795912236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_132
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1027
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5deb164045162610800000000000000
+      internalID: 1595986483747745115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_133
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 995
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0e40847f00f190800000000000000
+      internalID: -7930821950756221189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 956
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25e57eb1c2251e0800000000000000
+      internalID: -2210655968728034608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_135
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 956
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f35c34985a510c0800000000000000
+      internalID: -4605593034950361195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 998
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d406e8bac76b4ba0800000000000000
+      internalID: -6103670749587438383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 998
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4e658fc9041620800000000000000
+      internalID: 2743828859876952975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_138
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 971
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681d291d8df52cc0800000000000000
+      internalID: -3736301533379356573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 991
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac2f4ad779fdea0800000000000000
+      internalID: -5845787225409533247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_140
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 995
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee7c2cb95463240800000000000000
+      internalID: 4771077390535749177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_141
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 995
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c64ecf1f797550800000000000000
+      internalID: 6159093739987323256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 995
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae59b78edd67690800000000000000
+      internalID: -7604646930192930214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 978
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db31013a1c108760800000000000000
+      internalID: 7457991881742433232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_144
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 966
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf44e9d75361eaf0800000000000000
+      internalID: -368904465498746943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_145
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 966
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b232b3d4704ed0800000000000000
+      internalID: -2431815346203478904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_146
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 963
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b39d250d2fd6f00800000000000000
+      internalID: 1111811659587468113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 963
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01718901c5a81c7a0800000000000000
+      internalID: -6358649070850402544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_148
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 963
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447522127e394fd50800000000000000
+      internalID: 6770198760747325252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_149
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 961
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134bfd08f94e3d10800000000000000
+      internalID: 2107203005391258386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 935
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab5f71c09f08bee0800000000000000
+      internalID: -1245228182571885662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 935
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1404b1d077351c840800000000000000
+      internalID: 5242563212022071361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 911
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cdca451c2caad60800000000000000
+      internalID: 7902342631780048004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_153
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 911
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e068ebda91f13f00800000000000000
+      internalID: 1094921831844438243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_154
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 896
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb66f089a6a3310800000000000000
+      internalID: 1385537036695813792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_155
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 906
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb255264611489e0800000000000000
+      internalID: -1620150843102385176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_156
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 861
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3e0cc65d1f06f0800000000000000
+      internalID: -716321557100741232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 910
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60b1cee9dedb510800000000000000
+      internalID: 1566669512216610529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_158
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 833
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fb2c7062722130800000000000000
+      internalID: 3540518015792313591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_159
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 876
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb14421caea4a40800000000000000
+      internalID: 5353349222341132023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_160
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 846
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c93ec8cdba51c40800000000000000
+      internalID: 5482477085138328635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_161
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 846
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2282065bce711a0800000000000000
+      internalID: -6838737245392329999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_162
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 834
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eb2d7742995bc30800000000000000
+      internalID: 4374570994968477308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_163
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 834
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b9f0389f4e24d80800000000000000
+      internalID: -8267794205601981649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_164
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 809
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3d89d536f2fe20800000000000000
+      internalID: 3383036981252275979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_165
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 799
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369efc60dfdabec70800000000000000
+      internalID: 9001479582482688355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_166
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 801
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aedfaf5d323bd630800000000000000
+      internalID: 3952808337127497380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_167
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 808
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca02b3ee5ecf8b60800000000000000
+      internalID: 7750640390670256832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_168
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 803
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acb64a47e37d670800000000000000
+      internalID: 8563381887163943484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_169
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 811
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d474497c22eaf0800000000000000
+      internalID: -368683320139787030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_170
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 789
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2d658e7c4178b0800000000000000
+      internalID: -5156255992074391934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_171
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 789
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3f38cd6a147cbc0800000000000000
+      internalID: -3762966778724748332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_172
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 789
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18a0c3c36b5d320800000000000000
+      internalID: 2582170331188462053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_173
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 752
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afef8e2d9bc7ba40800000000000000
+      internalID: 5383995755496206241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_174
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 767
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2dfbd522e931d0800000000000000
+      internalID: -3370414193877635493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 737
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cec5ad1ec30700800000000000000
+      internalID: 505474209926792427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_176
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 737
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fd16cab33f4270800000000000000
+      internalID: 8236859120764712025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_177
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 779
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f94ad30c7e3d70800000000000000
+      internalID: 9024787059286078486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_178
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 771
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe07a7d2164e790800000000000000
+      internalID: -7501764231336760326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_179
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 771
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a690309d38980c0800000000000000
+      internalID: -4572978978535937388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_180
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 782
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a3be9449d07630800000000000000
+      internalID: 3922874164183278256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_181
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 672
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06868edbe53b8080800000000000000
+      internalID: -9184187727925049845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_182
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 672
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170aa0fc69fb7d10800000000000000
+      internalID: 2124565895524779793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_183
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a08d330e21c3590800000000000000
+      internalID: -7693253309303879027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_184
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 672
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e02ef316a46f680800000000000000
+      internalID: -8721701846812324319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_185
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 717
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d557a5b0f9f110800000000000000
+      internalID: 1295331030832894071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_186
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 717
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd369cedfe3a9d10800000000000000
+      internalID: 2133086633830268376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_187
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 717
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb6975f128a1e80800000000000000
+      internalID: -8207104299804213473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_188
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 717
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b5eb607943e730800000000000000
+      internalID: 4027143238994736458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_189
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 717
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3cfc28e93308010800000000000000
+      internalID: 1189007057518314438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_190
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 696
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a55da170782c5a0800000000000000
+      internalID: -6502486447384864180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_191
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 575
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca3ce1f384ac200800000000000000
+      internalID: 201052569307688019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_192
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 575
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1eee75bb13a4060800000000000000
+      internalID: 6938412856621588942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_193
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 575
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c33633459f46c70800000000000000
+      internalID: 8963563298408840239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_194
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 652
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c26d9c34ff72c0800000000000000
+      internalID: -4431554967133568748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_195
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 652
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47fa7c442159e50800000000000000
+      internalID: 6815373697712354508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_196
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 652
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbafe7df86a3d80800000000000000
+      internalID: -8270182327746118239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_197
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 630
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f09fe6fb49bd8a70800000000000000
+      internalID: 8830918180259991799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_198
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 630
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61743183a80a3f30800000000000000
+      internalID: 4555963471379067243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_199
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 630
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e2d4c6c7d80e70800000000000000
+      internalID: 9081745897298257674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_200
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 630
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e7a33cb7575240800000000000000
+      internalID: 4780385995309179736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_201
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 478
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626aff71b752e2740800000000000000
+      internalID: 5129078236235408934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_202
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 478
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435e80fe04923fd0800000000000000
+      internalID: -2363664062529776830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_203
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 478
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69dabd149b84430800000000000000
+      internalID: 3767464780805019340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_204
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 448
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24db4f430a0778860800000000000000
+      internalID: 7532112735185976642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_205
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 560
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0c8ccc48abbca0800000000000000
+      internalID: -6000017030738342236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_206
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 545
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5943985c659d7d0800000000000000
+      internalID: -2893185879198362174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_207
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 505
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e438d1e9f105d50800000000000000
+      internalID: 6723909007624588887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_208
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 492
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c817d8c883d16f70800000000000000
+      internalID: 9178850099996334272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_209
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 492
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab07dae42ec0450800000000000000
+      internalID: 6056464426451647162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c001ab960593c0800000000000000
+      internalID: -4353566199292836511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_211
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 383
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036147184a17608d0800000000000000
+      internalID: -2880489960296409552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_212
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0d5417ef1c9e60800000000000000
+      internalID: 7970280517878483937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_213
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 383
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d257bd9d558bb60800000000000000
+      internalID: 7762048351951203694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_214
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 415
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ebfed5aa4ce960800000000000000
+      internalID: 7632557544757257381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_215
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 391
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6967b4cc997c420800000000000000
+      internalID: 2650256008449267437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_216
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 391
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1a75c0809f2890800000000000000
+      internalID: -7480601573295777174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_217
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 415
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa90c2cc431af540800000000000000
+      internalID: 5042363953200536314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_218
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 383
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad59f1ba47f8810800000000000000
+      internalID: 1769761456898038414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_219
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 359
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6ae396da1fbba60800000000000000
+      internalID: 7691006515762603757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_220
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 359
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac07ab8ba07dc40800000000000000
+      internalID: 5536906055393528512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_221
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 383
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a9bba3339876e0800000000000000
+      internalID: -1839558597647161713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3523c744cead70800000000000000
+      internalID: 9056391713184365389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_223
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 286
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554033abfa3bc5430800000000000000
+      internalID: 3773088155154187349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_224
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 286
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d78371edcae7d0800000000000000
+      internalID: -2888269842815134245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_225
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 351
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4d845b6203f030800000000000000
+      internalID: 3527165593164532338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_226
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 326
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c552d3461e63c0800000000000000
+      internalID: -4364526508327975375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_227
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 326
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b68b9df891a850800000000000000
+      internalID: 6386553961591519556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_228
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 351
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be41358c25de7f470800000000000000
+      internalID: 8428466167451161835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_229
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 299
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f779b6f26b17a870800000000000000
+      internalID: 8693947717522126834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_230
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 299
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf515724680f14a20800000000000000
+      internalID: 3044979282510419452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_231
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 299
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff405afd87ebc30800000000000000
+      internalID: 4377068789792308995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_232
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 294
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ff9959c37b6d50800000000000000
+      internalID: 6731601376664613772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_233
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 294
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cc590fc5eafdaf0800000000000000
+      internalID: -369384930224517990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_234
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce66bc726f89ad0800000000000000
+      internalID: -2695133726204564397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176dd0a92971ea30800000000000000
+      internalID: 4242805543659202334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cd3e96bf7fca10800000000000000
+      internalID: 1931903187480855182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_237
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3104
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae016ebe23b48420800000000000000
+      internalID: 2631425095635111588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_238
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3072
+        width: 99
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483af1ae583387b70800000000000000
+      internalID: 8896917714122023812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_239
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2372
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d19600f196c210800000000000000
+      internalID: 1352929198159811467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2302
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68bb10c763497930800000000000000
+      internalID: 4141415445227616363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_241
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2244
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e5903900af0740800000000000000
+      internalID: 5120487262673821796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2284
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c68b752f5f5f70800000000000000
+      internalID: 9178159180195219401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_243
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2244
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a29e3ead152700800000000000000
+      internalID: 514850366615103943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2302
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae8d70e5fac7aee0800000000000000
+      internalID: -1249807214189900128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2372
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca9c979908b2f20800000000000000
+      internalID: 3398951740442782896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_246
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3044
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b024461cf751c0800000000000000
+      internalID: -4514862928853159507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_247
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3052
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d259ee13ce8b360800000000000000
+      internalID: 7185752904669932908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_248
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3052
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae555b4f6263dac0800000000000000
+      internalID: -3831610627817382226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_249
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3052
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20ff907fe5c2e7c0800000000000000
+      internalID: -4043451883247898580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_250
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2244
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98d656ac78be650800000000000000
+      internalID: 6263249010143627703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_251
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2308
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b4090b1612ab80800000000000000
+      internalID: -8385115250839210513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_252
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2372
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926e4e8be00b8390800000000000000
+      internalID: -7815151716666547564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_253
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2916
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc496cf793149a2d0800000000000000
+      internalID: -3267008339467922229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_254
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 202
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271697459de2fbd0800000000000000
+      internalID: -2597752809632426206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_255
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 108
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e410422afb0f2d0800000000000000
+      internalID: -3246884628224455100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_256
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 44
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0d8d39e8955db0800000000000000
+      internalID: -4803765299993310093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4d8b4d69d5cb50800000000000000
+      internalID: 6612930691305655945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_258
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b207db985005f0800000000000000
+      internalID: -792536108066752231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928c8ecb90d61d80800000000000000
+      internalID: -8280201497270254950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_260
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 196
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6e79a2c5558300800000000000000
+      internalID: 253703248571952324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_261
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd908f7209968a70800000000000000
+      internalID: 8828912355514555844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_262
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 100
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744a4dd5882d7ba0800000000000000
+      internalID: -6089666565726649231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd91357e1b9e9e60800000000000000
+      internalID: 7970978945609866742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bedroom_264
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a3ffb19c39b9a0800000000000000
+      internalID: -6216871213919919052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

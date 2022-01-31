@@ -1,0 +1,4524 @@
+fileFormatVersion: 2
+guid: 486751bc940bccc9eb62b53bcf3211ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4536510086441983074
+    second: Museum_0
+  - first:
+      213: -5952743221166088726
+    second: Museum_1
+  - first:
+      213: -3544483654144317926
+    second: Museum_2
+  - first:
+      213: -5510462699939661329
+    second: Museum_3
+  - first:
+      213: 3903205244378627053
+    second: Museum_4
+  - first:
+      213: 6372962261051742379
+    second: Museum_5
+  - first:
+      213: 1518332823383055896
+    second: Museum_6
+  - first:
+      213: -2858236529934417080
+    second: Museum_7
+  - first:
+      213: 7196076428124234028
+    second: Museum_8
+  - first:
+      213: -5386364167547667300
+    second: Museum_9
+  - first:
+      213: -7589329225510426898
+    second: Museum_10
+  - first:
+      213: -265489351675569027
+    second: Museum_11
+  - first:
+      213: 2595331851087974995
+    second: Museum_12
+  - first:
+      213: -5688353495046789182
+    second: Museum_13
+  - first:
+      213: 1587382485800820238
+    second: Museum_14
+  - first:
+      213: -7083287416853750107
+    second: Museum_15
+  - first:
+      213: -6078580909973879536
+    second: Museum_16
+  - first:
+      213: 5963954190645631797
+    second: Museum_17
+  - first:
+      213: 3356111657618013665
+    second: Museum_18
+  - first:
+      213: 4396254138807238905
+    second: Museum_19
+  - first:
+      213: -4336338921992213071
+    second: Museum_20
+  - first:
+      213: 3885179220206209110
+    second: Museum_21
+  - first:
+      213: -42383473101880748
+    second: Museum_22
+  - first:
+      213: 7872634532975898393
+    second: Museum_23
+  - first:
+      213: -1914146196538850513
+    second: Museum_24
+  - first:
+      213: -6253991910907154950
+    second: Museum_25
+  - first:
+      213: 6335450569319345995
+    second: Museum_26
+  - first:
+      213: 8720404313377741940
+    second: Museum_27
+  - first:
+      213: -2303065173675422109
+    second: Museum_28
+  - first:
+      213: -3744813148627001009
+    second: Museum_29
+  - first:
+      213: 973226875589659993
+    second: Museum_30
+  - first:
+      213: 3166195142508971398
+    second: Museum_31
+  - first:
+      213: -333393934330450886
+    second: Museum_32
+  - first:
+      213: 1499392549448716927
+    second: Museum_33
+  - first:
+      213: -7654040211008627793
+    second: Museum_34
+  - first:
+      213: 6031230319410570644
+    second: Museum_35
+  - first:
+      213: -1277437362344862978
+    second: Museum_36
+  - first:
+      213: 3982126876497667461
+    second: Museum_37
+  - first:
+      213: 9158503995238125106
+    second: Museum_38
+  - first:
+      213: -4027481529580646258
+    second: Museum_39
+  - first:
+      213: -8757824036243824727
+    second: Museum_40
+  - first:
+      213: 332590854295869137
+    second: Museum_41
+  - first:
+      213: -4324377299188615550
+    second: Museum_42
+  - first:
+      213: -4485465794957052020
+    second: Museum_43
+  - first:
+      213: -978731134178381551
+    second: Museum_44
+  - first:
+      213: -3959349156781044528
+    second: Museum_45
+  - first:
+      213: -8739041089154912326
+    second: Museum_46
+  - first:
+      213: 7240324881090648274
+    second: Museum_47
+  - first:
+      213: 3927322076151671281
+    second: Museum_48
+  - first:
+      213: -2746272988259505199
+    second: Museum_49
+  - first:
+      213: 4764911647747795695
+    second: Museum_50
+  - first:
+      213: 4198509386394354731
+    second: Museum_51
+  - first:
+      213: -117192531442656976
+    second: Museum_52
+  - first:
+      213: -2170714643669700828
+    second: Museum_53
+  - first:
+      213: -2445418512805368080
+    second: Museum_54
+  - first:
+      213: -8849089763312640049
+    second: Museum_55
+  - first:
+      213: 2130866928189808342
+    second: Museum_56
+  - first:
+      213: 4195406921889890733
+    second: Museum_57
+  - first:
+      213: -8979219354873006549
+    second: Museum_58
+  - first:
+      213: -2158010668858802893
+    second: Museum_59
+  - first:
+      213: 2539150308821403359
+    second: Museum_60
+  - first:
+      213: 7876641122613655041
+    second: Museum_61
+  - first:
+      213: 141751902667002442
+    second: Museum_62
+  - first:
+      213: 808890428060204364
+    second: Museum_63
+  - first:
+      213: -9111633898879471022
+    second: Museum_64
+  - first:
+      213: -5494383719986606925
+    second: Museum_65
+  - first:
+      213: 1293596791385028582
+    second: Museum_66
+  - first:
+      213: 6926450935831623949
+    second: Museum_67
+  - first:
+      213: 7727175932655807873
+    second: Museum_68
+  - first:
+      213: 2615104300769375071
+    second: Museum_69
+  - first:
+      213: 5468590773277303712
+    second: Museum_70
+  - first:
+      213: -3666220449223750812
+    second: Museum_71
+  - first:
+      213: 5131737126147406687
+    second: Museum_72
+  - first:
+      213: 4095518136704672151
+    second: Museum_73
+  - first:
+      213: 5345275300339549947
+    second: Museum_74
+  - first:
+      213: 3882097744848508562
+    second: Museum_75
+  - first:
+      213: 4171087429204339937
+    second: Museum_76
+  - first:
+      213: 9023405211033697526
+    second: Museum_77
+  - first:
+      213: 1507611895091424869
+    second: Museum_78
+  - first:
+      213: 1614670670202495996
+    second: Museum_79
+  - first:
+      213: 2025956057614553565
+    second: Museum_80
+  - first:
+      213: -2910693885286068659
+    second: Museum_81
+  - first:
+      213: 949777791517858012
+    second: Museum_82
+  - first:
+      213: -10117993106789092
+    second: Museum_83
+  - first:
+      213: 2902410795114860237
+    second: Museum_84
+  - first:
+      213: 1095480636328751768
+    second: Museum_85
+  - first:
+      213: 6701799878863590456
+    second: Museum_86
+  - first:
+      213: 6701509775443829871
+    second: Museum_87
+  - first:
+      213: 1298857568868696082
+    second: Museum_88
+  - first:
+      213: 3430169358641202942
+    second: Museum_89
+  - first:
+      213: 4810443802794778217
+    second: Museum_90
+  - first:
+      213: -8243244704376664628
+    second: Museum_91
+  - first:
+      213: -7035017441995411339
+    second: Museum_92
+  - first:
+      213: -682576968155363782
+    second: Museum_93
+  - first:
+      213: -8096710171166326602
+    second: Museum_94
+  - first:
+      213: 717605442328604162
+    second: Museum_95
+  - first:
+      213: -6366367875554948830
+    second: Museum_96
+  - first:
+      213: 3260753564698980185
+    second: Museum_97
+  - first:
+      213: -3121728350603022203
+    second: Museum_98
+  - first:
+      213: -3085050220001087295
+    second: Museum_99
+  - first:
+      213: 5072826533321606353
+    second: Museum_100
+  - first:
+      213: -7455478548405924615
+    second: Museum_101
+  - first:
+      213: -3503844037484418586
+    second: Museum_102
+  - first:
+      213: -3009372411890365210
+    second: Museum_103
+  - first:
+      213: 7254709201538904852
+    second: Museum_104
+  - first:
+      213: 722946545398062610
+    second: Museum_105
+  - first:
+      213: 4095027014569375178
+    second: Museum_106
+  - first:
+      213: 8764658290843566160
+    second: Museum_107
+  - first:
+      213: 373743439856417686
+    second: Museum_108
+  - first:
+      213: -7686253731196435635
+    second: Museum_109
+  - first:
+      213: -4910201821219244772
+    second: Museum_110
+  - first:
+      213: -6014911314879037174
+    second: Museum_111
+  - first:
+      213: -8244908455634938150
+    second: Museum_112
+  - first:
+      213: -8225976120988048074
+    second: Museum_113
+  - first:
+      213: -6275027960841448662
+    second: Museum_114
+  - first:
+      213: 302616216940078185
+    second: Museum_115
+  - first:
+      213: -4487068272401534467
+    second: Museum_116
+  - first:
+      213: 2747737363957378899
+    second: Museum_117
+  - first:
+      213: -2495390408622150065
+    second: Museum_118
+  - first:
+      213: 4592762721503817089
+    second: Museum_119
+  - first:
+      213: -3432089037177945715
+    second: Museum_120
+  - first:
+      213: -835730328899781518
+    second: Museum_121
+  - first:
+      213: -1020768413471091712
+    second: Museum_122
+  - first:
+      213: -5826644346275070696
+    second: Museum_123
+  - first:
+      213: -6999957985830147620
+    second: Museum_124
+  - first:
+      213: -5809526139150062098
+    second: Museum_125
+  - first:
+      213: -4220268924836934258
+    second: Museum_126
+  - first:
+      213: 5070385915221515638
+    second: Museum_127
+  - first:
+      213: -1735786564940688098
+    second: Museum_128
+  - first:
+      213: 3480089754901942362
+    second: Museum_129
+  - first:
+      213: -58173937953423887
+    second: Museum_130
+  - first:
+      213: 4415239155478803043
+    second: Museum_131
+  - first:
+      213: 3340421792620856296
+    second: Museum_132
+  - first:
+      213: -3843622347167489398
+    second: Museum_133
+  - first:
+      213: 598229612691309512
+    second: Museum_134
+  - first:
+      213: -312865836112036195
+    second: Museum_135
+  - first:
+      213: -5369408764633805853
+    second: Museum_136
+  - first:
+      213: 4934021883245072155
+    second: Museum_137
+  - first:
+      213: -9205520496152935236
+    second: Museum_138
+  - first:
+      213: -8002822295645752925
+    second: Museum_139
+  - first:
+      213: -5816623848959342793
+    second: Museum_140
+  - first:
+      213: -3495112033923845168
+    second: Museum_141
+  - first:
+      213: -5808358186232412027
+    second: Museum_142
+  - first:
+      213: 1996725161243384191
+    second: Museum_143
+  - first:
+      213: 6103625687403866484
+    second: Museum_144
+  - first:
+      213: 3208562233793293224
+    second: Museum_145
+  - first:
+      213: -3789079235645784778
+    second: Museum_146
+  - first:
+      213: -1551054968777068969
+    second: Museum_147
+  - first:
+      213: 7267706895700583322
+    second: Museum_148
+  - first:
+      213: 1507004825722289018
+    second: Museum_149
+  - first:
+      213: 1789538760335057444
+    second: Museum_150
+  - first:
+      213: -8724045060360565517
+    second: Museum_151
+  - first:
+      213: -3946531024970378959
+    second: Museum_152
+  - first:
+      213: -1402719503927935922
+    second: Museum_153
+  - first:
+      213: -8628892403112938246
+    second: Museum_154
+  - first:
+      213: 657050691868230930
+    second: Museum_155
+  - first:
+      213: -2247981992301630879
+    second: Museum_156
+  - first:
+      213: 892922306714779476
+    second: Museum_157
+  - first:
+      213: 6078313980169819497
+    second: Museum_158
+  - first:
+      213: 7017311672972688457
+    second: Museum_159
+  - first:
+      213: -1015736075341966916
+    second: Museum_160
+  - first:
+      213: 6717681698022041680
+    second: Museum_161
+  - first:
+      213: 5162256336030685758
+    second: Museum_162
+  - first:
+      213: -3947737777788422856
+    second: Museum_163
+  - first:
+      213: -6101574987559315203
+    second: Museum_164
+  - first:
+      213: -966513525396643483
+    second: Museum_165
+  - first:
+      213: -2855133402372746739
+    second: Museum_166
+  - first:
+      213: 6096652443825743019
+    second: Museum_167
+  - first:
+      213: -8695526846593090983
+    second: Museum_168
+  - first:
+      213: -7593042933056711378
+    second: Museum_169
+  - first:
+      213: -3981846355662570530
+    second: Museum_170
+  - first:
+      213: -1508782338971856328
+    second: Museum_171
+  - first:
+      213: -468045925900204470
+    second: Museum_172
+  - first:
+      213: 6808189021082655694
+    second: Museum_173
+  - first:
+      213: 8566597019535753071
+    second: Museum_174
+  - first:
+      213: 8152397504157895679
+    second: Museum_175
+  - first:
+      213: -4224965761509504716
+    second: Museum_176
+  - first:
+      213: 1649167444536412836
+    second: Museum_177
+  - first:
+      213: 4079432372987110778
+    second: Museum_178
+  - first:
+      213: 5371884253167574953
+    second: Museum_179
+  - first:
+      213: -9123356216854246706
+    second: Museum_180
+  - first:
+      213: 2812823588708361551
+    second: Museum_181
+  - first:
+      213: -3134918684686244353
+    second: Museum_182
+  - first:
+      213: 3039950493957249801
+    second: Museum_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Museum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3774
+        width: 447
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd95e53ebe4fe30800000000000000
+      internalID: 4536510086441983074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3786
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd74f449b936da0800000000000000
+      internalID: -5952743221166088726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3652
+        width: 289
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ac8265e67fcec0800000000000000
+      internalID: -3544483654144317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3715
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97e0ebe57e683b0800000000000000
+      internalID: -5510462699939661329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3710
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb31ac5d78fa2630800000000000000
+      internalID: 3903205244378627053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3710
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba895f8396f417850800000000000000
+      internalID: 6372962261051742379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3650
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e109c88a3321510800000000000000
+      internalID: 1518332823383055896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3656
+        width: 97
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c63505018558d0800000000000000
+      internalID: -2858236529934417080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3656
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2128ea82699dd360800000000000000
+      internalID: 7196076428124234028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3656
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbd6ae35acf35b0800000000000000
+      internalID: -5386364167547667300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3582
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e5f587494da690800000000000000
+      internalID: -7589329225510426898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3551
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c9abd57dac05cf0800000000000000
+      internalID: -265489351675569027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3595
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521b526198740420800000000000000
+      internalID: 2595331851087974995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3593
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c762ea62a8ee01b0800000000000000
+      internalID: -5688353495046789182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3595
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e95d4e5f3870610800000000000000
+      internalID: 1587382485800820238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3593
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae107c8f9b13bd90800000000000000
+      internalID: -7083287416853750107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3593
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015498a3eda84aba0800000000000000
+      internalID: -6078580909973879536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3523
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b922eecb834c250800000000000000
+      internalID: 5963954190645631797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3551
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7eda65cd439e20800000000000000
+      internalID: 3356111657618013665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3551
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f042fdc8d1a20d30800000000000000
+      internalID: 4396254138807238905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3530
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd24f0b9ba32d3c0800000000000000
+      internalID: -4336338921992213071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3530
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ce1d8aedeae530800000000000000
+      internalID: 3885179220206209110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3530
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524a6da47c696ff0800000000000000
+      internalID: -42383473101880748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3528
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f60809567314d60800000000000000
+      internalID: 7872634532975898393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3458
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2303230d269f65e0800000000000000
+      internalID: -1914146196538850513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3458
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd663afd7b5539a0800000000000000
+      internalID: -6253991910907154950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3458
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f6354e9ba0ce750800000000000000
+      internalID: 6335450569319345995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3466
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1aa43589150970800000000000000
+      internalID: 8720404313377741940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3466
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec08c3d6ed900e0800000000000000
+      internalID: -2303065173675422109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3471
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4120ed3840c70cc0800000000000000
+      internalID: -3744813148627001009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3471
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d826ddfa8918d00800000000000000
+      internalID: 973226875589659993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3471
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68580d6f4b590fb20800000000000000
+      internalID: 3166195142508971398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3471
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca6fdabfb8f5bf0800000000000000
+      internalID: -333393934330450886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3363
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7212c06499eec410800000000000000
+      internalID: 1499392549448716927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3363
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab564e1bf267c590800000000000000
+      internalID: -7654040211008627793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3363
+        width: 126
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495680b450c33b350800000000000000
+      internalID: 6031230319410570644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3359
+        width: 255
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5f92bc71a54ee0800000000000000
+      internalID: -1277437362344862978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3309
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ed24cb4b534730800000000000000
+      internalID: 3982126876497667461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3311
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0a2e1cda891f70800000000000000
+      internalID: 9158503995238125106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3294
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8016e923e28b18c0800000000000000
+      internalID: -4027481529580646258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3309
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1f42a075f57680800000000000000
+      internalID: -8757824036243824727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3311
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d659ddae999d9400800000000000000
+      internalID: 332590854295869137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3294
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286791702c9bcf3c0800000000000000
+      internalID: -4324377299188615550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3309
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c877b6fdf9c60c1c0800000000000000
+      internalID: -4485465794957052020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3311
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111bea01839da62f0800000000000000
+      internalID: -978731134178381551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3294
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc2506be09d09c0800000000000000
+      internalID: -3959349156781044528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3201
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe06b4e60b8b680800000000000000
+      internalID: -8739041089154912326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3248
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d894d35e1dca7460800000000000000
+      internalID: 7240324881090648274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3235
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e193de96a08630800000000000000
+      internalID: 3927322076151671281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3235
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbaa8e744743e9d0800000000000000
+      internalID: -2746272988259505199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3243
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae026e5ed502240800000000000000
+      internalID: 4764911647747795695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3237
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24cd22da0a144a30800000000000000
+      internalID: 4198509386394354731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_52
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3237
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03918097306af5ef0800000000000000
+      internalID: -117192531442656976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3201
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2453588210e1e0800000000000000
+      internalID: -2170714643669700828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3170
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6219a1d0201ed0800000000000000
+      internalID: -2445418512805368080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3170
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5438aeb7b13580800000000000000
+      internalID: -8849089763312640049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3170
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de916e6e2c529d10800000000000000
+      internalID: 2130866928189808342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3170
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da146730e54193a30800000000000000
+      internalID: 4195406921889890733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3153
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267b781297636380800000000000000
+      internalID: -8979219354873006549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3138
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dfa25fab43d02e0800000000000000
+      internalID: -2158010668858802893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3107
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68f9cb0cfdc3320800000000000000
+      internalID: 2539150308821403359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3107
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106fe986e537f4d60800000000000000
+      internalID: 7876641122613655041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3107
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d3bcba9a97f100800000000000000
+      internalID: 141751902667002442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_63
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3107
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfdb20f81c93b00800000000000000
+      internalID: 808890428060204364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3140
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b1e59e39fc8180800000000000000
+      internalID: -9111633898879471022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3075
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc428efd1700c3b0800000000000000
+      internalID: -5494383719986606925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3071
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f6119d67c3f110800000000000000
+      internalID: 1293596791385028582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_67
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3046
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097a60ad62bf1060800000000000000
+      internalID: 6926450935831623949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_68
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3046
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18da5e602917c3b60800000000000000
+      internalID: 7727175932655807873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3061
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5374f19187ba4420800000000000000
+      internalID: 2615104300769375071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3042
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32c2f955654eb40800000000000000
+      internalID: 5468590773277303712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2947
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bceb70de7fe1dc0800000000000000
+      internalID: -3666220449223750812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2846
+        width: 192
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b33b42ab7973740800000000000000
+      internalID: 5131737126147406687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2846
+        width: 65
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a37ddb0436d830800000000000000
+      internalID: 4095518136704672151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2783
+        width: 90
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6886fa09b3e2a40800000000000000
+      internalID: 5345275300339549947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2951
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965a09a45bffd530800000000000000
+      internalID: 3882097744848508562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2978
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec62d0eaeda2e930800000000000000
+      internalID: 4171087429204339937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2932
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc721c3b33993d70800000000000000
+      internalID: 9023405211033697526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2932
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee31ae70d1ce410800000000000000
+      internalID: 1507611895091424869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_79
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2915
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf369ae6b66786610800000000000000
+      internalID: 1614670670202495996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2846
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19aa8ec44ad1c10800000000000000
+      internalID: 2025956057614553565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2884
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e4f9535532b97d0800000000000000
+      internalID: -2910693885286068659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2686
+        width: 124
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81af68ed94e2d00800000000000000
+      internalID: 949777791517858012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2856
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da7072dbd0cdff0800000000000000
+      internalID: -10117993106789092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_84
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2825
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce84139d3f674820800000000000000
+      internalID: 2902410795114860237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 320
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b1baa5dde33f00800000000000000
+      internalID: 1095480636328751768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2692
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8349b6f6b73910d50800000000000000
+      internalID: 6701799878863590456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2692
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64232872ab800d50800000000000000
+      internalID: 6701509775443829871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2692
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2100f36c318760210800000000000000
+      internalID: 1298857568868696082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2705
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60d3d9bd86a9f20800000000000000
+      internalID: 3430169358641202942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2705
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edf8dd62122c240800000000000000
+      internalID: 4810443802794778217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2705
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd420fad9c1a9d80800000000000000
+      internalID: -8243244704376664628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2705
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570bf2dd8e89e5e90800000000000000
+      internalID: -7035017441995411339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2705
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368c392ddff686f0800000000000000
+      internalID: -682576968155363782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2705
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c65e5ff4b2af80800000000000000
+      internalID: -8096710171166326602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_95
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2688
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e22e6095275f900800000000000000
+      internalID: 717605442328604162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2688
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c61cc52e16a7a0800000000000000
+      internalID: -6366367875554948830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2634
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa8f34716804d20800000000000000
+      internalID: 3260753564698980185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2598
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807a01da946da4d0800000000000000
+      internalID: -3121728350603022203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2570
+        width: 415
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c038929b23bf25d0800000000000000
+      internalID: -3085050220001087295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2602
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48fc5eadc466640800000000000000
+      internalID: 5072826533321606353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2537
+        width: 192
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc48b3d2c1d88890800000000000000
+      internalID: -7455478548405924615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2430
+        width: 259
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ee5d7968df5fc0800000000000000
+      internalID: -3503844037484418586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2472
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0a685cbf8c36d0800000000000000
+      internalID: -3009372411890365210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2419
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413fb7ae497eda460800000000000000
+      internalID: 7254709201538904852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2408
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e1c0e7d0c680a00800000000000000
+      internalID: 722946545398062610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2303
+        width: 322
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac539059f5574d830800000000000000
+      internalID: 4095027014569375178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c963474252a970800000000000000
+      internalID: 8764658290843566160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2314
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b36c9adadcf2500800000000000000
+      internalID: 373743439856417686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2175
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43048a74f0f45590800000000000000
+      internalID: -7686253731196435635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2175
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1530ce75757bdbb0800000000000000
+      internalID: -4910201821219244772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_111
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2175
+        width: 52
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014829070eb68ca0800000000000000
+      internalID: -6014911314879037174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2280
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d3486173349d80800000000000000
+      internalID: -8244908455634938150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_113
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2280
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63569a11d4677dd80800000000000000
+      internalID: -8225976120988048074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_114
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2274
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23d66ee05f9ae8a0800000000000000
+      internalID: -6275027960841448662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_115
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2274
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646cf198db133400800000000000000
+      internalID: 302616216940078185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_116
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2238
+        width: 162
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b4940e2bbab1c0800000000000000
+      internalID: -4487068272401534467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2249
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6fba039ce12620800000000000000
+      internalID: 2747737363957378899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2249
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee82ef4a79e5dd0800000000000000
+      internalID: -2495390408622150065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_119
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2247
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d24e89c55ccbf30800000000000000
+      internalID: 4592762721503817089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 383
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810f756435ce50d0800000000000000
+      internalID: -3432089037177945715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2097
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c78e991b3e664f0800000000000000
+      internalID: -835730328899781518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2120
+        width: 257
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dd15498085d1f0800000000000000
+      internalID: -1020768413471091712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2110
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7cb386d9932fa0800000000000000
+      internalID: -5826644346275070696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_124
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2101
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96feb9c472bde90800000000000000
+      internalID: -6999957985830147620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2078
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed2d92b1ca606fa0800000000000000
+      internalID: -5809526139150062098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_126
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2024
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8976d5c79e65c0800000000000000
+      internalID: -4220268924836934258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_127
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2036
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1ce63021ad5640800000000000000
+      internalID: 5070385915221515638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_128
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2036
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1590d6d05f39e7e0800000000000000
+      internalID: -1735786564940688098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1855
+        width: 291
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50186b9133cb4030800000000000000
+      internalID: 3480089754901942362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_130
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1855
+        width: 194
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdb9159c13513ff0800000000000000
+      internalID: -58173937953423887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b5b47e94164d30800000000000000
+      internalID: 4415239155478803043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 512
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c32d0cef8b5e20800000000000000
+      internalID: 3340421792620856296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_133
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1422
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822452f6d5b8aac0800000000000000
+      internalID: -3843622347167489398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_134
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1409
+        width: 289
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c596c9a65d4800800000000000000
+      internalID: 598229612691309512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_135
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1439
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ebf200e2a78abf0800000000000000
+      internalID: -312865836112036195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1323
+        width: 126
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb022a4d270c75b0800000000000000
+      internalID: -5369408764633805853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_137
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1325
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f83d0e2ca297440800000000000000
+      internalID: 4934021883245072155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1325
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40a36b1eb6f3080800000000000000
+      internalID: -9205520496152935236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1313
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1757bd58340f090800000000000000
+      internalID: -8002822295645752925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 188
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73786ba5d63374fa0800000000000000
+      internalID: -5816623848959342793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_141
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1216
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b6cf7f1ede7fc0800000000000000
+      internalID: -3495112033923845168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588826de001946fa0800000000000000
+      internalID: -5808358186232412027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_143
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1088
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791ffd74fac5bb10800000000000000
+      internalID: 1996725161243384191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_144
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1088
+        width: 145
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47928ab693f64b450800000000000000
+      internalID: 6103625687403866484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ababf81a5a178c20800000000000000
+      internalID: 3208562233793293224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_146
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 961
+        width: 143
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3685b28c7a6bc0800000000000000
+      internalID: -3789079235645784778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_147
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 961
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e20f649bb897ae0800000000000000
+      internalID: -1551054968777068969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 160
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e3e96ae41cd460800000000000000
+      internalID: 7267706895700583322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 869
+        width: 130
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bf9ff87e4f9e410800000000000000
+      internalID: 1507004825722289018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_150
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 862
+        width: 143
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42260996508b5d810800000000000000
+      internalID: 1789538760335057444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 160
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc05b45d37fde680800000000000000
+      internalID: -8724045060360565517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_152
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 545
+        width: 167
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131159141fa1b39c0800000000000000
+      internalID: -3946531024970378959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_153
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 755
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cfcd80b0a888ce0800000000000000
+      internalID: -1402719503927935922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_154
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 545
+        width: 150
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f263c314004880800000000000000
+      internalID: -8628892403112938246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2150b308f105e1900800000000000000
+      internalID: 657050691868230930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_156
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 448
+        width: 259
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae26fc9409dc0e0800000000000000
+      internalID: -2247981992301630879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_157
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 385
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb1c76b1c446c00800000000000000
+      internalID: 892922306714779476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96510555c528a5450800000000000000
+      internalID: 6078313980169819497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_159
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 389
+        width: 322
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3db989cf726160800000000000000
+      internalID: 7017311672972688457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_160
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 402
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb151bbcb6167e1f0800000000000000
+      internalID: -1015736075341966916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_161
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582fbc99eff93d50800000000000000
+      internalID: 6717681698022041680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_162
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 355
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a5e9c69c404a740800000000000000
+      internalID: 5162256336030685758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_163
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 355
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f7883861d639c0800000000000000
+      internalID: -3947737777788422856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_164
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 345
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85e1850e9d25ba0800000000000000
+      internalID: -6101574987559315203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 337
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616f18c1114692f0800000000000000
+      internalID: -966513525396643483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_166
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 339
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0258353c478068d0800000000000000
+      internalID: -2855133402372746739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_167
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 337
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42041a819ab9450800000000000000
+      internalID: 6096652443825743019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_168
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 339
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a32f56768435780800000000000000
+      internalID: -8695526846593090983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 221
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255dda9ea710a690800000000000000
+      internalID: -7593042933056711378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_170
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 322
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7c8416d3adb8c0800000000000000
+      internalID: -3981846355662570530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_171
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 322
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321332e47abf0be0800000000000000
+      internalID: -1508782338971856328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_172
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464620d5ba2189f0800000000000000
+      internalID: -468045925900204470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_173
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9855e7db8b7e50800000000000000
+      internalID: 6808189021082655694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_174
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 280
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f395bf99aa2e670800000000000000
+      internalID: 8566597019535753071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_175
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 273
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcc173652232170800000000000000
+      internalID: 8152397504157895679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_176
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 259
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c9055608ed55c0800000000000000
+      internalID: -4224965761509504716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_177
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 259
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa4bba9d0503e610800000000000000
+      internalID: 1649167444536412836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_178
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 259
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752025212e0d9830800000000000000
+      internalID: 4079432372987110778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af519c4444cc8a40800000000000000
+      internalID: 5371884253167574953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 512
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0d0fbbd3536180800000000000000
+      internalID: -9123356216854246706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_181
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 6
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452dc4a628290720800000000000000
+      internalID: 2812823588708361551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_182
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5aa87d0188e74d0800000000000000
+      internalID: -3134918684686244353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b581f2ed2103a20800000000000000
+      internalID: 3039950493957249801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

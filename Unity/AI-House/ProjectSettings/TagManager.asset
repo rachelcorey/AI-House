@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Locked
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2788254209
+    locked: 0
+  - name: LivingRoomFloor
+    uniqueID: 1979894599
+    locked: 0
+  - name: RoomFloors
+    uniqueID: 3765531167
+    locked: 0
+  - name: Walls
+    uniqueID: 758988079
+    locked: 0
+  - name: RoomWalls
+    uniqueID: 3364895299
+    locked: 0
+  - name: BGDetails
+    uniqueID: 3801696703
+    locked: 0
+  - name: Furniture
+    uniqueID: 2670719031
+    locked: 0
+  - name: BGObjects
+    uniqueID: 3347730531
+    locked: 0
+  - name: FGObjects
+    uniqueID: 1226780093
+    locked: 0
+  - name: BGCharacters
+    uniqueID: 716719975
+    locked: 0
+  - name: Characters
+    uniqueID: 1106187903
+    locked: 0
+  - name: FGCharacters
+    uniqueID: 4115930253
+    locked: 0
+  - name: UI
+    uniqueID: 2516017861
+    locked: 0
