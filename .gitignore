@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Unity/
+Unity/*
 Unity/AI-House/[Ll]ibrary/
 Unity/AI-House/[Tt]emp/
 Unity/AI-House/[Oo]bj/
